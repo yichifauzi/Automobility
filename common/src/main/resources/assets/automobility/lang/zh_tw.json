@@ -2,7 +2,7 @@
   "entity.automobility.automobile": "汽車",
 
   "itemGroup.automobility.automobility": "飛車奇匠",
-  "itemGroup.automobility.automobility_prefabs": "飛車奇匠：預設組件",
+  "itemGroup.automobility.automobility_prefabs": "飛車奇匠：預製件",
 
   "automobility.automobility": "飛車奇匠",
   "midnightcontrols.action.automobility.accelerate_automobile": "加速",
@@ -102,7 +102,7 @@
   "tooltip.automobility.frameLabel": "框架：",
   "tooltip.automobility.wheelLabel": "輪胎：",
   "tooltip.automobility.engineLabel": "引擎：",
-  "tooltip.automobility.shiftForStats": " [SHIFT 顯示數值]",
+  "tooltip.automobility.shiftForStats": "[SHIFT 顯示數值]",
 
   "char.automobility.statSeparator": "：",
 
